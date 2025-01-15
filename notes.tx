@@ -1,0 +1,60 @@
+Qt
+
+- Cross Platform
+- Windows, Linux, Max
+- Android, IOS
+- Embedded
+- A single code base, you just recomple for the target of interest.
+
+
+What about PyQt
+- Can also be used to build cross platform desktop apps
+- The API is mostly similar to Pyside6 
+- But: requires a seperate license for commercial applications
+- This course wont cover PyQt but you can quickly pick it up with the knowledge from this course.
+
+
+Applications Written in Qt
+- Ableton Live
+- Adobe Photoshop 
+- Autodesk Maya
+- Davinci Resolve
+- Celestia
+- Google Earth
+- Krita
+- OBS
+- Mathematica
+- Roblox
+- VLC Media Player
+- Many others.
+
+Organizations using Qt:
+- AMD
+- Blizzard Entertainment
+- Dreamworks
+- Lucasfilm
+- Microsoft
+- Samsung
+- Tesla
+
+
+
+Two APIs when it comes to developing applications:
+- Qt Widgets
+- QML
+    - Also englobes mobile devices and embedded devices.
+
+
+Main Languages:
+
+- Python
+- C++
+
+Qt is more than just GUIs
+- Network
+- Threading
+- Databases
+- Tons of other utility classes
+
+
+Left off at 18:44
