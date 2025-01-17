@@ -58,3 +58,5 @@ Qt is more than just GUIs
 
 
 Left off at 18:44
+
+
