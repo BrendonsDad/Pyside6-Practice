@@ -60,3 +60,12 @@ Qt is more than just GUIs
 Left off at 18:44
 
 
+Notes Jan 18
+You can use the dcoumentation to learn about anything you need to about Pyside6. For example, if you wanted to learn about QWidget, you can go to 
+your favorite search engine and type 'Pyside6 QWidget' and this will pull the documentation which will give you all the information about it. 
+
+Class QPushButton
+    - The QPushButton widget provides a command button.
+    - Perhaps the most common widget
+    - push (click) a button to command the computer to perform some action, or to answer a question.
+    - Typical buttons are OK, Apply, Cancel, Close, Yes, No and Help
