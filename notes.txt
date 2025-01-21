@@ -69,3 +69,38 @@ Class QPushButton
     - Perhaps the most common widget
     - push (click) a button to command the computer to perform some action, or to answer a question.
     - Typical buttons are OK, Apply, Cancel, Close, Yes, No and Help
+
+Class QMainWindow
+    - The QMainWindow class provides a main application window.
+    Properties:
+        - animated: Whether manipulating dock widgets and tool bars is animated
+        - dockNestingEnabled: Whether docks can be nested
+        - dockOptions: The docking behavior of QMainWindow
+        - documentMode - Whether the tab bar for tabbed dockwidgets is set to docuent mode.
+        - iconSize - The tab shape used for tabbed dock widgets
+        - ToolButtonStyle - Style of toolbar buttons in this mainwindow
+        - unifiedTitleAndToolBarOnMac - Whether the window uses the undified title ad toolf bar lock
+          on macOS
+    Methods:
+        - Here are some methods included in this class. 
+            - addDockWidget()
+            - addToolBar()
+            - iconSize()
+            - insertToolBar()
+            - isAnimated()
+            - isDockNestingEnabled()
+            - menuBar()
+            - setMenuBar()
+            - statusBar()
+            - setStatusBar()
+    Description:
+        A main window provides a framework for building an applications user interface. 
+        Qt has QMainWindow and its related classes for main window management.
+
+Class QApplication:
+    - The QApplication class manages the GUI application's control flow ad main settings.
+    Methods:
+        - __init__()
+        - autoSipEnabled()
+        - exec_()
+        - styleSheet()

@@ -34,4 +34,14 @@ class ButtonHolder(QMainWindow):
         #Set up the button as our central widget
         self.setCentralWidget(button)
 
-app = QApplication(sys.)
+app = QApplication(sys.argv)
+
+window = QMainWindow()
+window.setWindowTitle("Our first MainWindow App!")
+
+button = QPushButton()
+button.setText("Press Me")
+
+window.setCentralWidget(button)
+
+window.show()
