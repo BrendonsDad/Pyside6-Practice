@@ -104,3 +104,7 @@ Class QApplication:
         - autoSipEnabled()
         - exec_()
         - styleSheet()
+
+Signals and Slots
+* Lets say we have a button and we want to do something when that button is clicked. 
+    * When the button is clicked, we send out a 'signal'
