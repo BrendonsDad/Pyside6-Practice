@@ -108,3 +108,5 @@ Class QApplication:
 Signals and Slots
 * Lets say we have a button and we want to do something when that button is clicked. 
     * When the button is clicked, we send out a 'signal'
+
+left off on jan 22 at 1:04
